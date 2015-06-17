@@ -11,8 +11,6 @@
 % Dimodifikasi untuk keperluan Program Studi
 % Oleh: JULIO ADISANTOSO (julioipb@gmail.com)
 %
-% Untuk memudahkan penggunaan, maka diambil contoh makalah atas nama 
-% Fithranto Faturakhman di bawah bimbingan Karlisa Priandana ILKOM-IPB.
 % Silakan mengganti dan melengkapi file:
 %    (1) kolokium_information.tex -- judul, nama, nim, email, pembimbing, dsb
 %    (2) abstrak.tex -- abstrak makalah
@@ -33,7 +31,8 @@
 \usepackage{xcolor,colortbl}
 \usepackage{multicol}
 \usepackage{multirow}
-\usepackage[urldate=iso8601, backend=biber, style=authoryear, url=true, doi=true, sorting=nyt]{biblatex}
+%\usepackage[urldate=iso8601, backend=biber, style=authoryear, url=true, doi=true, sorting=nyt]{biblatex}
+\usepackage[urldate=iso8601,maxbibnames=9,maxcitenames=2,backend=biber,style=authoryear,url=true,doi=true,sorting=nyt]{biblatex}
 \addbibresource{pustaka.bib}
 \DefineBibliographyStrings{english}{%
 	urlseen = {diunduh pada},
@@ -80,6 +79,12 @@
 %----------------------------------------------------------------------------------------
 
 \input{pendahuluan}
+
+%----------------------------------------------------------------------------------------
+%	BAGIAN TINJAUAN PUSTAKA
+%----------------------------------------------------------------------------------------
+
+\input{tinjauan_pustaka}
 
 %----------------------------------------------------------------------------------------
 %	BAGIAN METODE

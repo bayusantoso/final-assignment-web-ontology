@@ -81,11 +81,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>9</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -2236,19 +2236,58 @@
     <bcf:datasource type="file" datatype="bibtex">pustaka.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">BAROCH2002</bcf:citekey>
-    <bcf:citekey order="2">BAROCH2002</bcf:citekey>
-    <bcf:citekey order="3">HEFFNER2007</bcf:citekey>
-    <bcf:citekey order="4">TITO2011</bcf:citekey>
-    <bcf:citekey order="5">TITO2011</bcf:citekey>
-    <bcf:citekey order="6">SIMEON2013</bcf:citekey>
-    <bcf:citekey order="7">SIMEON2013</bcf:citekey>
-    <bcf:citekey order="8">BHADRIRAJU2001</bcf:citekey>
-    <bcf:citekey order="9">BHADRIRAJU2001</bcf:citekey>
-    <bcf:citekey order="10">BHADRIRAJU2001</bcf:citekey>
-    <bcf:citekey order="11">BHADRIRAJU2001</bcf:citekey>
-    <bcf:citekey order="12">SIMEON2013</bcf:citekey>
-    <bcf:citekey order="13">SIMEON2013</bcf:citekey>
+    <bcf:citekey order="1">BAPPENAS2003</bcf:citekey>
+    <bcf:citekey order="2">BAPPENAS2003</bcf:citekey>
+    <bcf:citekey order="3">ZUHUD2008</bcf:citekey>
+    <bcf:citekey order="4">ZUHUD2008</bcf:citekey>
+    <bcf:citekey order="5">HAMZARI2008</bcf:citekey>
+    <bcf:citekey order="6">HAMZARI2008</bcf:citekey>
+    <bcf:citekey order="7">ZUHUD2008</bcf:citekey>
+    <bcf:citekey order="8">ZUHUD2008</bcf:citekey>
+    <bcf:citekey order="9">HAMZARI2008</bcf:citekey>
+    <bcf:citekey order="10">HAMZARI2008</bcf:citekey>
+    <bcf:citekey order="11">GILLMANE2009</bcf:citekey>
+    <bcf:citekey order="12">GILLMANE2009</bcf:citekey>
+    <bcf:citekey order="13">LAALLAM2013</bcf:citekey>
+    <bcf:citekey order="14">LAALLAM2013</bcf:citekey>
+    <bcf:citekey order="15">JEPSEN2010</bcf:citekey>
+    <bcf:citekey order="16">JEPSEN2010</bcf:citekey>
+    <bcf:citekey order="17">DILECCE2008</bcf:citekey>
+    <bcf:citekey order="18">DILECCE2008</bcf:citekey>
+    <bcf:citekey order="19">LAALLAM2013</bcf:citekey>
+    <bcf:citekey order="20">LAALLAM2013</bcf:citekey>
+    <bcf:citekey order="21">VADIVU2012</bcf:citekey>
+    <bcf:citekey order="22">VADIVU2012</bcf:citekey>
+    <bcf:citekey order="23">ASHBURNERM2000</bcf:citekey>
+    <bcf:citekey order="24">ASHBURNERM2000</bcf:citekey>
+    <bcf:citekey order="25">GILLMANE2009</bcf:citekey>
+    <bcf:citekey order="26">GILLMANE2009</bcf:citekey>
+    <bcf:citekey order="27">GILLMANE2009</bcf:citekey>
+    <bcf:citekey order="28">GILLMANE2009</bcf:citekey>
+    <bcf:citekey order="29">ZUHUD2008</bcf:citekey>
+    <bcf:citekey order="30">ZUHUD2008</bcf:citekey>
+    <bcf:citekey order="31">HAMZARI2008</bcf:citekey>
+    <bcf:citekey order="32">HAMZARI2008</bcf:citekey>
+    <bcf:citekey order="33">JEPSEN2010</bcf:citekey>
+    <bcf:citekey order="34">JEPSEN2010</bcf:citekey>
+    <bcf:citekey order="35">JEPSEN2010</bcf:citekey>
+    <bcf:citekey order="36">JEPSEN2010</bcf:citekey>
+    <bcf:citekey order="37">DINGL2005</bcf:citekey>
+    <bcf:citekey order="38">DINGL2005</bcf:citekey>
+    <bcf:citekey order="39">SEGARAB2009</bcf:citekey>
+    <bcf:citekey order="40">SEGARAB2009</bcf:citekey>
+    <bcf:citekey order="41">ANTONIOUG2008</bcf:citekey>
+    <bcf:citekey order="42">RAIMBAULT2010</bcf:citekey>
+    <bcf:citekey order="43">SEGARAB2009</bcf:citekey>
+    <bcf:citekey order="44">SEGARAB2009</bcf:citekey>
+    <bcf:citekey order="45">HEG2010</bcf:citekey>
+    <bcf:citekey order="46">HEG2010</bcf:citekey>
+    <bcf:citekey order="47">SEGARAB2009</bcf:citekey>
+    <bcf:citekey order="48">SEGARAB2009</bcf:citekey>
+    <bcf:citekey order="49">FAROOQA2010</bcf:citekey>
+    <bcf:citekey order="50">FAROOQA2010</bcf:citekey>
+    <bcf:citekey order="51">FAROOQA2010</bcf:citekey>
+    <bcf:citekey order="52">FAROOQA2010</bcf:citekey>
     <bcf:citekey order="0">*</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="nyt" type="entry" sortscheme="nyt">
