@@ -22,17 +22,17 @@
     \entry{ANTONIOUG2008}{book}{}
       \name{labelname}{2}{}{%
         {{uniquename=0,hash=438c55f7b07c58335993f45d4fdc7e20}{Antoniou}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9ca1d8eccf8012a141e3e76531eb7b7d}{F}{F\bibinitperiod}{Hermalen}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3795d8e8e262f6e7bdaa31079f6ee3c3}{Hermalen}{H\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
         {{uniquename=0,hash=438c55f7b07c58335993f45d4fdc7e20}{Antoniou}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9ca1d8eccf8012a141e3e76531eb7b7d}{F}{F\bibinitperiod}{Hermalen}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3795d8e8e262f6e7bdaa31079f6ee3c3}{Hermalen}{H\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Cambridge (GB): The MIT Pr}%
       }
-      \strng{namehash}{0b1094307e0bd3dc18a1ebcb0ebabb80}
-      \strng{fullhash}{0b1094307e0bd3dc18a1ebcb0ebabb80}
+      \strng{namehash}{910d799a3f0c4520920608686c5b2f6f}
+      \strng{fullhash}{910d799a3f0c4520920608686c5b2f6f}
       \field{sortinit}{A}
       \field{labelyear}{2008}
       \field{datelabelsource}{}
@@ -41,17 +41,55 @@
       \field{year}{2008}
     \endentry
     \entry{ASHBURNERM2000}{book}{}
-      \name{labelname}{1}{}{%
+      \name{labelname}{20}{}{%
         {{uniquename=0,hash=c81eebe803c1b2a7cac991c00026b0c6}{Ashburner}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6e72784089450e55f3037d0666c99453}{Ball}{B\bibinitperiod}{CA}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=32bc36dfcce625884e1c34bca5ecdb93}{Blake}{B\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=242d9f60e4717ffebea5cc6f504f3ce2}{Botstein}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=57b5f763a0ec9642645690ae17a48d77}{Butler}{B\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=93feaa7b3b30edf2f20f57d1f7a6aa86}{Cherry}{C\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3bdc80bf2292dad9c5ee159e7259e590}{Davis}{D\bibinitperiod}{AP}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4708319e9c11c324c761060ff6dcc2c}{Dolinski}{D\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a9d79a42ea0910e9122dba5fa2cb7758}{Dwight3}{D\bibinitperiod}{SS}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f483bab4c7ed3cc2deae65b59891f331}{Eppig}{E\bibinitperiod}{JT}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=30656a55e03929aabf0d383142b3b524}{Harris}{H\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8f375194937f37455439bfdf7b9213d4}{Hill}{H\bibinitperiod}{DP}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=159ce79d86377dd3e431ceb0a82da51c}{Tarver}{T\bibinitperiod}{LI}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6048708c92d0c0d2eff5a36f4f324f06}{Kasarskis}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=778ea906680ea69d22dc941ec4fee1f7}{Lewis}{L\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de6a16ef1125653d68091499be1f6db4}{Matese}{M\bibinitperiod}{JC}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=27545629ab52ef8264a3bf9a6d5315c5}{Richardson}{R\bibinitperiod}{JE}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e7a305540323cbc5d60138fc75dea19}{Ringwald}{R\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=acbc8597912b0e94ef8dcf9b2192f682}{Rubin}{R\bibinitperiod}{GM}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2db24bf04e2b0000d49969e5bd59c154}{Sherlock}{S\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{1}{}{%
+      \name{author}{20}{}{%
         {{uniquename=0,hash=c81eebe803c1b2a7cac991c00026b0c6}{Ashburner}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6e72784089450e55f3037d0666c99453}{Ball}{B\bibinitperiod}{CA}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=32bc36dfcce625884e1c34bca5ecdb93}{Blake}{B\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=242d9f60e4717ffebea5cc6f504f3ce2}{Botstein}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=57b5f763a0ec9642645690ae17a48d77}{Butler}{B\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=93feaa7b3b30edf2f20f57d1f7a6aa86}{Cherry}{C\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3bdc80bf2292dad9c5ee159e7259e590}{Davis}{D\bibinitperiod}{AP}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4708319e9c11c324c761060ff6dcc2c}{Dolinski}{D\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a9d79a42ea0910e9122dba5fa2cb7758}{Dwight3}{D\bibinitperiod}{SS}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f483bab4c7ed3cc2deae65b59891f331}{Eppig}{E\bibinitperiod}{JT}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=30656a55e03929aabf0d383142b3b524}{Harris}{H\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8f375194937f37455439bfdf7b9213d4}{Hill}{H\bibinitperiod}{DP}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=159ce79d86377dd3e431ceb0a82da51c}{Tarver}{T\bibinitperiod}{LI}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6048708c92d0c0d2eff5a36f4f324f06}{Kasarskis}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=778ea906680ea69d22dc941ec4fee1f7}{Lewis}{L\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de6a16ef1125653d68091499be1f6db4}{Matese}{M\bibinitperiod}{JC}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=27545629ab52ef8264a3bf9a6d5315c5}{Richardson}{R\bibinitperiod}{JE}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e7a305540323cbc5d60138fc75dea19}{Ringwald}{R\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=acbc8597912b0e94ef8dcf9b2192f682}{Rubin}{R\bibinitperiod}{GM}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2db24bf04e2b0000d49969e5bd59c154}{Sherlock}{S\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {California (US): Stanford University School of Medicine}%
       }
-      \strng{namehash}{c81eebe803c1b2a7cac991c00026b0c6}
-      \strng{fullhash}{c81eebe803c1b2a7cac991c00026b0c6}
+      \strng{namehash}{880e3eaeef85f45fb66a9a9a2ec93e24}
+      \strng{fullhash}{fa2121ffa6defaef79746dbc042ace61}
       \field{sortinit}{A}
       \field{labelyear}{2000}
       \field{datelabelsource}{}
@@ -354,17 +392,17 @@
     \entry{ANTONIOUG2008}{book}{}
       \name{labelname}{2}{}{%
         {{uniquename=0,hash=438c55f7b07c58335993f45d4fdc7e20}{Antoniou}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9ca1d8eccf8012a141e3e76531eb7b7d}{F}{F\bibinitperiod}{Hermalen}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3795d8e8e262f6e7bdaa31079f6ee3c3}{Hermalen}{H\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{2}{}{%
         {{uniquename=0,hash=438c55f7b07c58335993f45d4fdc7e20}{Antoniou}{A\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=9ca1d8eccf8012a141e3e76531eb7b7d}{F}{F\bibinitperiod}{Hermalen}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3795d8e8e262f6e7bdaa31079f6ee3c3}{Hermalen}{H\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Cambridge (GB): The MIT Pr}%
       }
-      \strng{namehash}{0b1094307e0bd3dc18a1ebcb0ebabb80}
-      \strng{fullhash}{0b1094307e0bd3dc18a1ebcb0ebabb80}
+      \strng{namehash}{910d799a3f0c4520920608686c5b2f6f}
+      \strng{fullhash}{910d799a3f0c4520920608686c5b2f6f}
       \field{sortinit}{A}
       \field{labelyear}{2008}
       \field{datelabelsource}{}
@@ -373,17 +411,55 @@
       \field{year}{2008}
     \endentry
     \entry{ASHBURNERM2000}{book}{}
-      \name{labelname}{1}{}{%
+      \name{labelname}{20}{}{%
         {{uniquename=0,hash=c81eebe803c1b2a7cac991c00026b0c6}{Ashburner}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6e72784089450e55f3037d0666c99453}{Ball}{B\bibinitperiod}{CA}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=32bc36dfcce625884e1c34bca5ecdb93}{Blake}{B\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=242d9f60e4717ffebea5cc6f504f3ce2}{Botstein}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=57b5f763a0ec9642645690ae17a48d77}{Butler}{B\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=93feaa7b3b30edf2f20f57d1f7a6aa86}{Cherry}{C\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3bdc80bf2292dad9c5ee159e7259e590}{Davis}{D\bibinitperiod}{AP}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4708319e9c11c324c761060ff6dcc2c}{Dolinski}{D\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a9d79a42ea0910e9122dba5fa2cb7758}{Dwight3}{D\bibinitperiod}{SS}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f483bab4c7ed3cc2deae65b59891f331}{Eppig}{E\bibinitperiod}{JT}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=30656a55e03929aabf0d383142b3b524}{Harris}{H\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8f375194937f37455439bfdf7b9213d4}{Hill}{H\bibinitperiod}{DP}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=159ce79d86377dd3e431ceb0a82da51c}{Tarver}{T\bibinitperiod}{LI}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6048708c92d0c0d2eff5a36f4f324f06}{Kasarskis}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=778ea906680ea69d22dc941ec4fee1f7}{Lewis}{L\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de6a16ef1125653d68091499be1f6db4}{Matese}{M\bibinitperiod}{JC}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=27545629ab52ef8264a3bf9a6d5315c5}{Richardson}{R\bibinitperiod}{JE}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e7a305540323cbc5d60138fc75dea19}{Ringwald}{R\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=acbc8597912b0e94ef8dcf9b2192f682}{Rubin}{R\bibinitperiod}{GM}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2db24bf04e2b0000d49969e5bd59c154}{Sherlock}{S\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
       }
-      \name{author}{1}{}{%
+      \name{author}{20}{}{%
         {{uniquename=0,hash=c81eebe803c1b2a7cac991c00026b0c6}{Ashburner}{A\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6e72784089450e55f3037d0666c99453}{Ball}{B\bibinitperiod}{CA}{C\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=32bc36dfcce625884e1c34bca5ecdb93}{Blake}{B\bibinitperiod}{JA}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=242d9f60e4717ffebea5cc6f504f3ce2}{Botstein}{B\bibinitperiod}{D}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=57b5f763a0ec9642645690ae17a48d77}{Butler}{B\bibinitperiod}{H}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=93feaa7b3b30edf2f20f57d1f7a6aa86}{Cherry}{C\bibinitperiod}{JM}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=3bdc80bf2292dad9c5ee159e7259e590}{Davis}{D\bibinitperiod}{AP}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b4708319e9c11c324c761060ff6dcc2c}{Dolinski}{D\bibinitperiod}{K}{K\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=a9d79a42ea0910e9122dba5fa2cb7758}{Dwight3}{D\bibinitperiod}{SS}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=f483bab4c7ed3cc2deae65b59891f331}{Eppig}{E\bibinitperiod}{JT}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=30656a55e03929aabf0d383142b3b524}{Harris}{H\bibinitperiod}{MA}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=8f375194937f37455439bfdf7b9213d4}{Hill}{H\bibinitperiod}{DP}{D\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=159ce79d86377dd3e431ceb0a82da51c}{Tarver}{T\bibinitperiod}{LI}{L\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=6048708c92d0c0d2eff5a36f4f324f06}{Kasarskis}{K\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=778ea906680ea69d22dc941ec4fee1f7}{Lewis}{L\bibinitperiod}{S}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=de6a16ef1125653d68091499be1f6db4}{Matese}{M\bibinitperiod}{JC}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=27545629ab52ef8264a3bf9a6d5315c5}{Richardson}{R\bibinitperiod}{JE}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=7e7a305540323cbc5d60138fc75dea19}{Ringwald}{R\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=acbc8597912b0e94ef8dcf9b2192f682}{Rubin}{R\bibinitperiod}{GM}{G\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=2db24bf04e2b0000d49969e5bd59c154}{Sherlock}{S\bibinitperiod}{G}{G\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {California (US): Stanford University School of Medicine}%
       }
-      \strng{namehash}{c81eebe803c1b2a7cac991c00026b0c6}
-      \strng{fullhash}{c81eebe803c1b2a7cac991c00026b0c6}
+      \strng{namehash}{880e3eaeef85f45fb66a9a9a2ec93e24}
+      \strng{fullhash}{fa2121ffa6defaef79746dbc042ace61}
       \field{sortinit}{A}
       \field{labelyear}{2000}
       \field{datelabelsource}{}
