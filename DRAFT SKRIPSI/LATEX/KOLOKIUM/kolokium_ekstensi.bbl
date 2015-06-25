@@ -117,19 +117,17 @@
       \field{year}{2003}
     \endentry
     \entry{DILECCE2008}{proceedings}{}
-      \name{labelname}{2}{}{%
-        {{uniquename=0,hash=e818733770ff58858d9b0b885c570375}{DiLecce}{D\bibinitperiod}{V}{V\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=71aedfdd78b6d31554632230b5dab384}{Calabrese}{C\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=e49b53a173f17f389b617edbb8922875}{DiLecce\bibnamedelima V}{D\bibinitperiod\bibinitdelim V\bibinitperiod}{Calabrese\bibnamedelima M}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
       }
-      \name{editor}{2}{}{%
-        {{uniquename=0,hash=e818733770ff58858d9b0b885c570375}{DiLecce}{D\bibinitperiod}{V}{V\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=71aedfdd78b6d31554632230b5dab384}{Calabrese}{C\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=e49b53a173f17f389b617edbb8922875}{DiLecce\bibnamedelima V}{D\bibinitperiod\bibinitdelim V\bibinitperiod}{Calabrese\bibnamedelima M}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Viena (AUT)}%
       }
-      \strng{namehash}{b3681070d70476782bd2388233507ea9}
-      \strng{fullhash}{b3681070d70476782bd2388233507ea9}
+      \strng{namehash}{e49b53a173f17f389b617edbb8922875}
+      \strng{fullhash}{e49b53a173f17f389b617edbb8922875}
       \field{sortinit}{D}
       \field{labelyear}{2008}
       \field{datelabelsource}{}
@@ -143,22 +141,22 @@
     \entry{DINGL2005}{proceedings}{}
       \name{labelname}{6}{}{%
         {{uniquename=0,hash=a8472d81eba2cea3b3e67d5f3f39cddf}{Ding}{D\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1e187a795d7092ea35b13e341b6b19d3}{Finin}{F\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=3aa256cbccd9ce61edd5e87e15e1cc69}{Joshi}{J\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=eefecab16de668c90ab3009ecad53304}{Peng}{P\bibinitperiod}{Y}{Y\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=48ad63738965a7224148d4bda4dbfaec}{Pan}{P\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=356ac0a697e5d3a32dabf3992ec8bb56}{Reddivari}{R\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=214f2d1af2021554d4c486eb23f0d2f7}{T}{T\bibinitperiod}{Finin}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0977c03f5c32e03e8568050b4062673b}{A}{A\bibinitperiod}{Joshi}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=03386638e413a88eaf7c5a9ac1d959c5}{Y}{Y\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=69e017064d741cce48ba7ed11b218ca3}{R}{R\bibinitperiod}{Pan}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b18120b3f0f599bfb0a6914286650483}{P}{P\bibinitperiod}{Reddivari}{R\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{6}{}{%
         {{uniquename=0,hash=a8472d81eba2cea3b3e67d5f3f39cddf}{Ding}{D\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1e187a795d7092ea35b13e341b6b19d3}{Finin}{F\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=3aa256cbccd9ce61edd5e87e15e1cc69}{Joshi}{J\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=eefecab16de668c90ab3009ecad53304}{Peng}{P\bibinitperiod}{Y}{Y\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=48ad63738965a7224148d4bda4dbfaec}{Pan}{P\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=356ac0a697e5d3a32dabf3992ec8bb56}{Reddivari}{R\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=214f2d1af2021554d4c486eb23f0d2f7}{T}{T\bibinitperiod}{Finin}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0977c03f5c32e03e8568050b4062673b}{A}{A\bibinitperiod}{Joshi}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=03386638e413a88eaf7c5a9ac1d959c5}{Y}{Y\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=69e017064d741cce48ba7ed11b218ca3}{R}{R\bibinitperiod}{Pan}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b18120b3f0f599bfb0a6914286650483}{P}{P\bibinitperiod}{Reddivari}{R\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{c2b4b51acf18a37cc70cfaefc5b71e28}
-      \strng{fullhash}{820df468ad6855dcfa418c15363443b0}
+      \strng{fullhash}{c07e3060e0e4e498c678a8b006415cca}
       \field{sortinit}{D}
       \field{labelyear}{2005}
       \field{datelabelsource}{}
@@ -273,6 +271,37 @@
       \field{title}{Ontology Language OWL Research Study}
       \field{year}{2011}
     \endentry
+    \entry{HERDIYENI2013}{proceedings}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=0,hash=fe3dc2533b5fc6a0a56a64345a04424e}{Herdiyeni}{H\bibinitperiod}{Y}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=da385f609500598c5f3a13c35fc9b872}{EAM}{E\bibinitperiod}{Zuhud}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54e7617be87abe0841c1a3714464d2ae}{A}{A\bibinitperiod}{Hikmat}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1925983baf6d99665f41b1e9b5bbd415}{AH}{A\bibinitperiod}{Mustari}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e00111b70c719fef906b2f3c95fb467f}{DS}{D\bibinitperiod}{Pravista}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cfbd329cd1fe69124f3dc20ea73c8598}{M}{M\bibinitperiod}{Mega}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=229e3cf540041616ca5c50f628a4ff4f}{R}{R\bibinitperiod}{Setiawan}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f441a82cb00d5ac34fa5a71c3b19a69}{AA}{A\bibinitperiod}{Metananda}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{8}{}{%
+        {{uniquename=0,hash=fe3dc2533b5fc6a0a56a64345a04424e}{Herdiyeni}{H\bibinitperiod}{Y}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=da385f609500598c5f3a13c35fc9b872}{EAM}{E\bibinitperiod}{Zuhud}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54e7617be87abe0841c1a3714464d2ae}{A}{A\bibinitperiod}{Hikmat}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1925983baf6d99665f41b1e9b5bbd415}{AH}{A\bibinitperiod}{Mustari}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e00111b70c719fef906b2f3c95fb467f}{DS}{D\bibinitperiod}{Pravista}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cfbd329cd1fe69124f3dc20ea73c8598}{M}{M\bibinitperiod}{Mega}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=229e3cf540041616ca5c50f628a4ff4f}{R}{R\bibinitperiod}{Setiawan}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f441a82cb00d5ac34fa5a71c3b19a69}{AA}{A\bibinitperiod}{Metananda}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6123b798854881a12e73dc75328384a0}
+      \strng{fullhash}{710b28d4a2e51a7b922d1d16a4f10e93}
+      \field{sortinit}{H}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{IPB Biodiversity Informatics (IPBiotics) Untuk Pembangunan Berkelanjutan}
+      \field{eventtitle}{Prosiding Seminar Hasil-Hasil PPM IPB 2013. 2: 389–402}
+      \field{title}{IPB Biodiversity Informatics (IPBiotics) Untuk Pembangunan Berkelanjutan}
+      \field{year}{2013}
+    \endentry
     \entry{JEPSEN2010}{proceedings}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=9bf69d600f55ce81952938d0f6aa2e04}{Jepsen}{J\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
@@ -330,21 +359,21 @@
     \endentry
     \entry{SEGARAB2009}{book}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=f964e0e655767faa47fcaeb0b91e1ac4}{T}{T\bibinitperiod}{Segaran}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b2a81a9c2ec4ac9ac34850f33d57fce8}{Segaran}{S\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=c35cf3d3d590d3630cf2e740f75161e6}{C}{C\bibinitperiod}{Evans}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b296ed6901d319a573563a8d9850ecfa}{J}{J\bibinitperiod}{Taylor}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=f964e0e655767faa47fcaeb0b91e1ac4}{T}{T\bibinitperiod}{Segaran}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b2a81a9c2ec4ac9ac34850f33d57fce8}{Segaran}{S\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=c35cf3d3d590d3630cf2e740f75161e6}{C}{C\bibinitperiod}{Evans}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b296ed6901d319a573563a8d9850ecfa}{J}{J\bibinitperiod}{Taylor}{T\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {New York(US): O’Reilly}%
       }
-      \strng{namehash}{003296083c99a9e9d555cb476c9c2dbc}
-      \strng{fullhash}{b584826c3ed77de18545ba3ab67595c7}
-      \field{sortinit}{T}
+      \strng{namehash}{58b1ace526fcfb6849c7afee807b7470}
+      \strng{fullhash}{44edab9b32a1141abfe73b9e3656b337}
+      \field{sortinit}{S}
       \field{labelyear}{2009}
       \field{datelabelsource}{}
       \field{labeltitle}{Programming the semantic web}
@@ -487,19 +516,17 @@
       \field{year}{2003}
     \endentry
     \entry{DILECCE2008}{proceedings}{}
-      \name{labelname}{2}{}{%
-        {{uniquename=0,hash=e818733770ff58858d9b0b885c570375}{DiLecce}{D\bibinitperiod}{V}{V\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=71aedfdd78b6d31554632230b5dab384}{Calabrese}{C\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      \name{labelname}{1}{}{%
+        {{uniquename=0,hash=e49b53a173f17f389b617edbb8922875}{DiLecce\bibnamedelima V}{D\bibinitperiod\bibinitdelim V\bibinitperiod}{Calabrese\bibnamedelima M}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
       }
-      \name{editor}{2}{}{%
-        {{uniquename=0,hash=e818733770ff58858d9b0b885c570375}{DiLecce}{D\bibinitperiod}{V}{V\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=71aedfdd78b6d31554632230b5dab384}{Calabrese}{C\bibinitperiod}{M}{M\bibinitperiod}{}{}{}{}}%
+      \name{editor}{1}{}{%
+        {{uniquename=0,hash=e49b53a173f17f389b617edbb8922875}{DiLecce\bibnamedelima V}{D\bibinitperiod\bibinitdelim V\bibinitperiod}{Calabrese\bibnamedelima M}{C\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {Viena (AUT)}%
       }
-      \strng{namehash}{b3681070d70476782bd2388233507ea9}
-      \strng{fullhash}{b3681070d70476782bd2388233507ea9}
+      \strng{namehash}{e49b53a173f17f389b617edbb8922875}
+      \strng{fullhash}{e49b53a173f17f389b617edbb8922875}
       \field{sortinit}{D}
       \field{labelyear}{2008}
       \field{datelabelsource}{}
@@ -513,22 +540,22 @@
     \entry{DINGL2005}{proceedings}{}
       \name{labelname}{6}{}{%
         {{uniquename=0,hash=a8472d81eba2cea3b3e67d5f3f39cddf}{Ding}{D\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1e187a795d7092ea35b13e341b6b19d3}{Finin}{F\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=3aa256cbccd9ce61edd5e87e15e1cc69}{Joshi}{J\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=eefecab16de668c90ab3009ecad53304}{Peng}{P\bibinitperiod}{Y}{Y\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=48ad63738965a7224148d4bda4dbfaec}{Pan}{P\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=356ac0a697e5d3a32dabf3992ec8bb56}{Reddivari}{R\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=214f2d1af2021554d4c486eb23f0d2f7}{T}{T\bibinitperiod}{Finin}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0977c03f5c32e03e8568050b4062673b}{A}{A\bibinitperiod}{Joshi}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=03386638e413a88eaf7c5a9ac1d959c5}{Y}{Y\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=69e017064d741cce48ba7ed11b218ca3}{R}{R\bibinitperiod}{Pan}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b18120b3f0f599bfb0a6914286650483}{P}{P\bibinitperiod}{Reddivari}{R\bibinitperiod}{}{}{}{}}%
       }
       \name{editor}{6}{}{%
         {{uniquename=0,hash=a8472d81eba2cea3b3e67d5f3f39cddf}{Ding}{D\bibinitperiod}{L}{L\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=1e187a795d7092ea35b13e341b6b19d3}{Finin}{F\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=3aa256cbccd9ce61edd5e87e15e1cc69}{Joshi}{J\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=eefecab16de668c90ab3009ecad53304}{Peng}{P\bibinitperiod}{Y}{Y\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=48ad63738965a7224148d4bda4dbfaec}{Pan}{P\bibinitperiod}{R}{R\bibinitperiod}{}{}{}{}}%
-        {{uniquename=0,hash=356ac0a697e5d3a32dabf3992ec8bb56}{Reddivari}{R\bibinitperiod}{P}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=214f2d1af2021554d4c486eb23f0d2f7}{T}{T\bibinitperiod}{Finin}{F\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=0977c03f5c32e03e8568050b4062673b}{A}{A\bibinitperiod}{Joshi}{J\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=03386638e413a88eaf7c5a9ac1d959c5}{Y}{Y\bibinitperiod}{Peng}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=69e017064d741cce48ba7ed11b218ca3}{R}{R\bibinitperiod}{Pan}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b18120b3f0f599bfb0a6914286650483}{P}{P\bibinitperiod}{Reddivari}{R\bibinitperiod}{}{}{}{}}%
       }
       \strng{namehash}{c2b4b51acf18a37cc70cfaefc5b71e28}
-      \strng{fullhash}{820df468ad6855dcfa418c15363443b0}
+      \strng{fullhash}{c07e3060e0e4e498c678a8b006415cca}
       \field{sortinit}{D}
       \field{labelyear}{2005}
       \field{datelabelsource}{}
@@ -643,6 +670,37 @@
       \field{title}{Ontology Language OWL Research Study}
       \field{year}{2011}
     \endentry
+    \entry{HERDIYENI2013}{proceedings}{}
+      \name{labelname}{8}{}{%
+        {{uniquename=0,hash=fe3dc2533b5fc6a0a56a64345a04424e}{Herdiyeni}{H\bibinitperiod}{Y}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=da385f609500598c5f3a13c35fc9b872}{EAM}{E\bibinitperiod}{Zuhud}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54e7617be87abe0841c1a3714464d2ae}{A}{A\bibinitperiod}{Hikmat}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1925983baf6d99665f41b1e9b5bbd415}{AH}{A\bibinitperiod}{Mustari}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e00111b70c719fef906b2f3c95fb467f}{DS}{D\bibinitperiod}{Pravista}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cfbd329cd1fe69124f3dc20ea73c8598}{M}{M\bibinitperiod}{Mega}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=229e3cf540041616ca5c50f628a4ff4f}{R}{R\bibinitperiod}{Setiawan}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f441a82cb00d5ac34fa5a71c3b19a69}{AA}{A\bibinitperiod}{Metananda}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{8}{}{%
+        {{uniquename=0,hash=fe3dc2533b5fc6a0a56a64345a04424e}{Herdiyeni}{H\bibinitperiod}{Y}{Y\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=da385f609500598c5f3a13c35fc9b872}{EAM}{E\bibinitperiod}{Zuhud}{Z\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=54e7617be87abe0841c1a3714464d2ae}{A}{A\bibinitperiod}{Hikmat}{H\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=1925983baf6d99665f41b1e9b5bbd415}{AH}{A\bibinitperiod}{Mustari}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=e00111b70c719fef906b2f3c95fb467f}{DS}{D\bibinitperiod}{Pravista}{P\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=cfbd329cd1fe69124f3dc20ea73c8598}{M}{M\bibinitperiod}{Mega}{M\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=229e3cf540041616ca5c50f628a4ff4f}{R}{R\bibinitperiod}{Setiawan}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=4f441a82cb00d5ac34fa5a71c3b19a69}{AA}{A\bibinitperiod}{Metananda}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6123b798854881a12e73dc75328384a0}
+      \strng{fullhash}{710b28d4a2e51a7b922d1d16a4f10e93}
+      \field{sortinit}{H}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labeltitle}{IPB Biodiversity Informatics (IPBiotics) Untuk Pembangunan Berkelanjutan}
+      \field{eventtitle}{Prosiding Seminar Hasil-Hasil PPM IPB 2013. 2: 389–402}
+      \field{title}{IPB Biodiversity Informatics (IPBiotics) Untuk Pembangunan Berkelanjutan}
+      \field{year}{2013}
+    \endentry
     \entry{JEPSEN2010}{proceedings}{}
       \name{labelname}{1}{}{%
         {{uniquename=0,hash=9bf69d600f55ce81952938d0f6aa2e04}{Jepsen}{J\bibinitperiod}{TC}{T\bibinitperiod}{}{}{}{}}%
@@ -700,21 +758,21 @@
     \endentry
     \entry{SEGARAB2009}{book}{}
       \name{labelname}{3}{}{%
-        {{uniquename=0,hash=f964e0e655767faa47fcaeb0b91e1ac4}{T}{T\bibinitperiod}{Segaran}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b2a81a9c2ec4ac9ac34850f33d57fce8}{Segaran}{S\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=c35cf3d3d590d3630cf2e740f75161e6}{C}{C\bibinitperiod}{Evans}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b296ed6901d319a573563a8d9850ecfa}{J}{J\bibinitperiod}{Taylor}{T\bibinitperiod}{}{}{}{}}%
       }
       \name{author}{3}{}{%
-        {{uniquename=0,hash=f964e0e655767faa47fcaeb0b91e1ac4}{T}{T\bibinitperiod}{Segaran}{S\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=b2a81a9c2ec4ac9ac34850f33d57fce8}{Segaran}{S\bibinitperiod}{T}{T\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=c35cf3d3d590d3630cf2e740f75161e6}{C}{C\bibinitperiod}{Evans}{E\bibinitperiod}{}{}{}{}}%
         {{uniquename=0,hash=b296ed6901d319a573563a8d9850ecfa}{J}{J\bibinitperiod}{Taylor}{T\bibinitperiod}{}{}{}{}}%
       }
       \list{publisher}{1}{%
         {New York(US): O’Reilly}%
       }
-      \strng{namehash}{003296083c99a9e9d555cb476c9c2dbc}
-      \strng{fullhash}{b584826c3ed77de18545ba3ab67595c7}
-      \field{sortinit}{T}
+      \strng{namehash}{58b1ace526fcfb6849c7afee807b7470}
+      \strng{fullhash}{44edab9b32a1141abfe73b9e3656b337}
+      \field{sortinit}{S}
       \field{labelyear}{2009}
       \field{datelabelsource}{}
       \field{labeltitle}{Programming the semantic web}
